@@ -4,7 +4,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon server.js || node index.js"
+    "start": "nodemon server.js || node index.js",
+    "build": "npm install"
   },
   "author": "Sathyanarayanan R",
   "license": "ISC",
