@@ -7,7 +7,7 @@
 
 <br />
 
-As of now, this MERN Stack Gmail Clone Application is developed in a way that one to one user can send & receive mails between them. Multi user communication & advanced drafting features will be included in future.
+As of now, this MERN Stack Gmail Clone Application is developed in a way that one to one user can send, receive & reply mails between them. Multi user communication & advanced drafting features will be included in future.
 
 -------------------------------------------------------------
 
